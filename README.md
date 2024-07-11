@@ -26,3 +26,10 @@ busybox                    latest    65ad0d468eb1   13 months ago   4.26MB
 hello-world                latest    d2c94e258dcb   14 months ago   13.3kB
 
 
+**Delete Images:**
+$ sudo docker rmi 22f4e4d8dc23 
+
+In above command end show the image id, to delete image with its id.
+
+
+
