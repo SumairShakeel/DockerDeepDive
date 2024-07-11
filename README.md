@@ -31,5 +31,12 @@ $ sudo docker rmi 22f4e4d8dc23
 
 In above command end show the image id, to delete image with its id.
 
+**Forcefully Delete Images:**
+
+sudo docker rmi -f   d2c94e258dcb 
+
+The image can be used as a base image to create any container, but we can delete it. 
+
+
 
 
