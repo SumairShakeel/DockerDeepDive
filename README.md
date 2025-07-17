@@ -1,16 +1,16 @@
 ### DockerDeepDive Learning Modules:
 
-    **Installation and Configuration**
-       Sizing Requirements
-       Docker Engine Installation
-       Swarm Installation
-       Docker Enterprise – UCP, DTR
-       Manage Users & Teams
-       Daemon Configuration
-       Certificate-based auth
-       Namespaces & Cgroups
-       Troubleshoot issues
-       Configure Backups
+**Installation and Configuration**
+ - Sizing Requirements
+ - Docker Engine Installation
+ - Swarm Installation
+ - Docker Enterprise – UCP, DTR
+ - Manage Users & Teams
+ - Daemon Configuration
+ - Certificate-based auth
+ - Namespaces & Cgroups
+ - Troubleshoot issues
+ - Configure Backups
 
  **Pull image from Docker Registry:**
  
