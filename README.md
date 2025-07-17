@@ -1,7 +1,6 @@
 ### DockerDeepDive Learning Modules:
-
-**Installation and Configuration**
- - Sizing Requirements
+**Installation and Configuration**    
+ - Sizing Requirements                                                                                                                          
  - Docker Engine Installation
  - Swarm Installation
  - Docker Enterprise – UCP, DTR
